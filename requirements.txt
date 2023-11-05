@@ -1,0 +1,5 @@
+cffi==1.16.0
+colorama==0.4.6
+just-playback==0.1.7
+pycparser==2.21
+tinytag==1.10.1
