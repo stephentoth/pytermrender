@@ -107,7 +107,7 @@ Pytermrender also provides a convienent way to store state inside the Screen obj
 Screen.tickers
   | a dictionary to store variables that change every frame.
 Screen.state
-  | a dictionary to store variaiables that are more static.
+  | a dictionary to store variables that are more static.
 ```
 Example usage as follows:
 ```
